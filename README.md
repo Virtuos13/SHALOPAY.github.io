@@ -1,1 +1,0 @@
-#   shalopay.github.io
